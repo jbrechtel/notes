@@ -1,0 +1,1 @@
+Various and sundry notes I take from time to time. Probably not of interest to you.
