@@ -1,7 +1,4 @@
 ### Angular is magic
 
-> Not sure hwo but Angular.js figures out dependencies by function argument names.
-> This means that Javascript exposes parameter names via reflection? Either that or Angular
-> is reading the JS source? Either way, this doesn't work when using minification.
-> So, instead, make your controllers a function object and give them an $inject property. Specify
-> their dependencies that way.
+Not sure how but Angular.js figures out dependencies by function argument names. You don't really rely on this in the real world because minification obviously breaks this, but the interesting bit is that I didn't know Javascript exposed this information. Via reflection? Or is Angular reading the javascript directly? That'd be stupid.
+
