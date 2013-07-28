@@ -1,8 +1,3 @@
-title: Sheevaplug notes
-date: 2013-07-27
-tags: linux sheevaplug arm
-----------------------
-
 ## I screwed up my uboot and had to restore it, here is what I learned.
 
 ### Sheevaplug is a pain in the ass

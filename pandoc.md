@@ -1,8 +1,3 @@
-title: pandoc
-tags: pandoc document-generation
-date: 2013-07-24
--------------------
-
 ### [pandoc](http://johnmacfarlane.net/pandoc/)
 
 usage: pandoc -o output-file input-file

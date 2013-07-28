@@ -1,8 +1,3 @@
-title: Angular.JS depenencies
-date: 2013-07-28
-tags: javascript angular
-----------------------------
-
 ### Angular is magic
 
 > Not sure hwo but Angular.js figures out dependencies by function argument names.

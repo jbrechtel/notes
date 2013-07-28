@@ -1,8 +1,3 @@
-title: Personal wiki requirements
-date: 2013-07-23
-tags: wiki
-----------------------
-
 ### Requirements for personal wiki
 
 * Searchable
