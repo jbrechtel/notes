@@ -30,3 +30,12 @@ http://www.cyrius.com/debian/kirkwood/sheevaplug/unpack/
 
 This guy seems to have an ARMv5 build of Debian 7.0
 http://www.who.is.free.fr/wiki/doku.php?id=armv5
+
+
+### ArchLinux
+
+Currently failed at getting ArchLinux to install with latest uBoot. No strong reason to use Arch over Debian at the moment (but that may change) so I gave up.
+
+#### Why Arch failed...?
+
+* Seems like the init binary in the Arch initrd just runs the Arch installer. Too bad they didn't use a shell script? Don't know what init should do (despite reading debian init) and didn't want to invest even more time
