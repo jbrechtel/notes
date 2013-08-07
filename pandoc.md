@@ -1,4 +1,4 @@
-### [pandoc](http://johnmacfarlane.net/pandoc/)
+### [pandoc homepage](http://johnmacfarlane.net/pandoc/)
 
 #### usage
     pandoc -o output-file input-file
