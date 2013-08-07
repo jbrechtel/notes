@@ -1,6 +1,7 @@
 ### [pandoc](http://johnmacfarlane.net/pandoc/)
 
-    usage: pandoc -o output-file input-file
+#### usage
+    pandoc -o output-file input-file
 
 It reads markdown (and probably others) and infers the output type based on the extension.
 
